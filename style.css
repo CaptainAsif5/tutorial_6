@@ -1,0 +1,29 @@
+.div1{
+    border: 5px brown groove;
+    border-radius: 25px;
+    padding: 5px;
+}
+.h1{
+    background-color: rgb(255, 204, 0);
+}
+.p1{
+    background-color: rgb(178, 190, 14);
+}
+/* Universql selector */
+*{
+    background-color: rgb(255, 255, 255);
+}
+input[type="text"]{
+    color: brown;
+}
+input[type="password"]{
+    color: brown;
+}
+img{
+    background-image: url('image.jpg');
+    height: 400px;
+    width: 500px;
+}
+.container{
+    background-image: url(image.jpg);
+}
